@@ -10,7 +10,7 @@ var entryUsuario = document.getElementById("username");
 var entrySenha = document.getElementById("password");
 var entryBotao = document.getElementById("botaoe");
 var entryLinkc = document.getElementById("linkc");
-// Area da conferencia da conta. (TABELA)
+
 
 var padrao = 1;
 var testeUsuario = 0;
