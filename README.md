@@ -1,2 +1,4 @@
-# WebPage-Lanchonete
- site da lanchonete.
+* Loja Virtual
+
+Projeto para site de barraca de lanches.
+(Incompleto)
